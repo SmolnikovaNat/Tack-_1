@@ -1,0 +1,15 @@
+D:\TasK-_4\ex29\obj\Debug\net6.0\ex29.csproj.AssemblyReference.cache
+D:\TasK-_4\ex29\obj\Debug\net6.0\ex29.GeneratedMSBuildEditorConfig.editorconfig
+D:\TasK-_4\ex29\obj\Debug\net6.0\ex29.AssemblyInfoInputs.cache
+D:\TasK-_4\ex29\obj\Debug\net6.0\ex29.AssemblyInfo.cs
+D:\TasK-_4\ex29\obj\Debug\net6.0\ex29.csproj.CoreCompileInputs.cache
+D:\TasK-_4\ex29\bin\Debug\net6.0\ex29.exe
+D:\TasK-_4\ex29\bin\Debug\net6.0\ex29.deps.json
+D:\TasK-_4\ex29\bin\Debug\net6.0\ex29.runtimeconfig.json
+D:\TasK-_4\ex29\bin\Debug\net6.0\ex29.dll
+D:\TasK-_4\ex29\bin\Debug\net6.0\ex29.pdb
+D:\TasK-_4\ex29\obj\Debug\net6.0\ex29.dll
+D:\TasK-_4\ex29\obj\Debug\net6.0\refint\ex29.dll
+D:\TasK-_4\ex29\obj\Debug\net6.0\ex29.pdb
+D:\TasK-_4\ex29\obj\Debug\net6.0\ex29.genruntimeconfig.cache
+D:\TasK-_4\ex29\obj\Debug\net6.0\ref\ex29.dll
